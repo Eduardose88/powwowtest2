@@ -47,8 +47,7 @@
       },
       "update": {
         "type": "none"
-      },
-      "selectorAll": ".subtle"
+      }
     }
   },
   "connect": []
