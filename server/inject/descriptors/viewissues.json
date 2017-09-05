@@ -50,5 +50,7 @@
       }
     }
   },
-  "connect": []
+  "connect": [],
+  "selector": ".subtle",
+  "selectContains": "Assigned to Me (Unresolved)"
 }
