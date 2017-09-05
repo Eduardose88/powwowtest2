@@ -53,6 +53,6 @@
   },
   "connect": [],
   "selectContains": "Assigned to Me (Unresolved)",
-  "selectorAll": ".form-title",
+  "selectorAll": "#buglist",
   "selector": ".form-title"
 }
