@@ -1,1 +1,24 @@
-{}
+{
+  "issueslist": [
+    {
+      "id": "1",
+      "severity": "Low",
+      "summary": "Doesnt matter"
+    },
+    {
+      "id": "2",
+      "severity": "Medium",
+      "summary": "Call again"
+    },
+    {
+      "id": "3",
+      "severity": "High",
+      "summary": "Ok pay attention"
+    },
+    {
+      "id": "4",
+      "severity": "Critical",
+      "summary": "Fix it"
+    }
+  ]
+}
