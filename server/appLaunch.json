@@ -1,0 +1,17 @@
+{
+  "remoteAppConfig": {
+    "loginType": "process",
+    "cmd": "node",
+    "args": [
+      "<%= transformAppsDir %>/powwowtest2/server/start.js",
+      "--sessionID",
+      ":sessionID"
+    ]
+  },
+  "appData": {
+    "appType": "local",
+    "appZip": "<%= staticStorage %>powwowtest2/client.zip",
+    "sessionCheck": false,
+    "smartuxApp": "<%= staticStorage %>powwowtest2/smartuxApp.json"
+  }
+}
