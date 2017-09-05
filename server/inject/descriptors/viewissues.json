@@ -52,6 +52,7 @@
     }
   },
   "connect": [],
-  "selector": ".subtle",
-  "selectContains": "Assigned to Me (Unresolved)"
+  "selectContains": "Assigned to Me (Unresolved)",
+  "selectorAll": ".form-title",
+  "selector": ".form-title"
 }
