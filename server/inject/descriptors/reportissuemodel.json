@@ -24,7 +24,8 @@
       "update": {
         "type": "none"
       },
-      "selector": "[name=\"description\"]"
+      "selector": "[name=\"description\"]",
+      "control": "text"
     }
   },
   "connect": []
