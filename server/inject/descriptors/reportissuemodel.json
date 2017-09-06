@@ -16,7 +16,8 @@
       "update": {
         "type": "none"
       },
-      "selector": "[name=\"priority\"]"
+      "selector": "[name=\"priority\"]",
+      "control": "select"
     },
     "description": {
       "type": "string",
