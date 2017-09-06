@@ -14,7 +14,8 @@
       "type": "select",
       "update": {
         "type": "none"
-      }
+      },
+      "selector": "[name=\"priority\"]"
     },
     "description": {
       "type": "string",
