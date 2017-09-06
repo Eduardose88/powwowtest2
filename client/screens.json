@@ -1,11 +1,11 @@
 {
   "id": "app",
   "name": "powwowtest2",
-  "startScreen": "app.blank",
+  "startScreen": "app.reportissue",
   "screens": [
     {
-      "id": "blank",
-      "name": "BLANK",
+      "id": "reportissue",
+      "name": "reportissue",
       "sourceAppId": "_blank",
       "sourceScreenId": "app.blank"
     },
