@@ -8,7 +8,8 @@
         "type": "none"
       },
       "selector": "[name=\"category_id\"]",
-      "selectContains": "(select)"
+      "selectContains": "(select)",
+      "control": "property.innerText"
     },
     "severity": {
       "type": "select",
