@@ -1,0 +1,26 @@
+{
+  "type": "object",
+  "comment": "",
+  "properties": {
+    "category": {
+      "type": "select",
+      "update": {
+        "type": "none"
+      }
+    },
+    "severity": {
+      "type": "select",
+      "update": {
+        "type": "none"
+      }
+    },
+    "description": {
+      "type": "string",
+      "update": {
+        "type": "none"
+      },
+      "selector": "[name=\"description\"]"
+    }
+  },
+  "connect": []
+}
