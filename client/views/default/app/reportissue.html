@@ -15,7 +15,8 @@
                     <div data-comp-id="text.1">Category</div>
                 </div>
                 <div class="col" data-comp-id="column.2">
-                    <select-list data-comp-id="selectList.1" ng-model="data.category">Pick one</select-list>
+                    <select-list data-comp-id="selectList.1" ng-model="data.category"
+                        placeholder="Pick one">Pick one</select-list>
                 </div>
             </div>
         </div>
@@ -23,14 +24,14 @@
             <div class="row" data-comp-id="row.2">
                 <div class="col" data-comp-id="column.3">
                     <div data-comp-id="text.2">Severity</div>
-                    <div class="row" data-comp-id="row.4">
-                        <div class="col" data-comp-id="column.5">
+                    <div class="row" data-comp-id="row.3">
+                        <div class="col" data-comp-id="column.4">
                             <ion-radio class="radio-button" data-comp-id="radio.1">Low</ion-radio>
                         </div>
-                        <div class="col" data-comp-id="column.6">
+                        <div class="col" data-comp-id="column.5">
                             <ion-radio class="radio-button" data-comp-id="radio.2">Medium</ion-radio>
                         </div>
-                        <div class="col" data-comp-id="column.7">
+                        <div class="col" data-comp-id="column.6">
                             <ion-radio class="radio-button" data-comp-id="radio.3">High</ion-radio>
                         </div>
                     </div>
@@ -38,21 +39,22 @@
             </div>
         </div>
         <div data-comp-id="div.3">
-            <div class="row" data-comp-id="row.5">
-                <div class="col" data-comp-id="column.8">
+            <div class="row" data-comp-id="row.4">
+                <div class="col" data-comp-id="column.7">
                     <div data-comp-id="text.3"></div>
                     <div data-comp-id="text.4">Description</div>
                 </div>
-                <div class="col" data-comp-id="column.9">
-                    <label class="item item-input item-stacked-label" data-comp-id="textAreaInput.1">
-                        <span class="input-label"></span>
+                <div class="col" data-comp-id="column.8">
+                    <label class="item item-input item-stacked-label light-bg"
+                        data-comp-id="textAreaInput.1">
+                        <span class="input-label">Write your issue</span>
                         <textarea ng-model="data.description" rows="4"></textarea>
                     </label>
                 </div>
             </div>
             <div data-comp-id="div.4">
-                <div class="row" data-comp-id="row.6">
-                    <div class="col" data-comp-id="column.10">
+                <div class="row" data-comp-id="row.5">
+                    <div class="col" data-comp-id="column.9">
                         <button class="button button-block" data-comp-id="button.3">Submit</button>
                     </div>
                 </div>
