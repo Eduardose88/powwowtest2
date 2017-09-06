@@ -118,5 +118,20 @@
         }
       }
     }
+  },
+  "reportissuemodel": {
+    "type": "object",
+    "comment": "",
+    "properties": {
+      "category": {
+        "type": "select"
+      },
+      "severity": {
+        "type": "select"
+      },
+      "description": {
+        "type": "string"
+      }
+    }
   }
 }
