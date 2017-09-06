@@ -124,13 +124,22 @@
     "comment": "",
     "properties": {
       "category": {
-        "type": "select"
+        "type": "select",
+        "update": {
+          "type": "none"
+        }
       },
       "severity": {
-        "type": "select"
+        "type": "select",
+        "update": {
+          "type": "none"
+        }
       },
       "description": {
-        "type": "string"
+        "type": "string",
+        "update": {
+          "type": "none"
+        }
       }
     }
   }
