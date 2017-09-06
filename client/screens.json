@@ -7,7 +7,8 @@
       "id": "reportissue",
       "name": "reportissue",
       "sourceAppId": "_blank",
-      "sourceScreenId": "app.blank"
+      "sourceScreenId": "app.blank",
+      "model": "reportissuemodel"
     },
     {
       "id": "menu",
