@@ -44,7 +44,10 @@
         "password": {
           "type": "string"
         }
-      }
+      },
+      "selector": ".button",
+      "selectContains": "Login",
+      "control": "action.button"
     }
   },
   "connect": []
