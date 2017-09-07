@@ -9,7 +9,7 @@
       },
       "selectContains": "category_id",
       "control": "select",
-      "selector": "[name=\"reproducibility\"]"
+      "selector": "[name=\"category_id\"]"
     },
     "severity": {
       "type": "select",
