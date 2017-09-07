@@ -7,9 +7,9 @@
       "update": {
         "type": "none"
       },
-      "selector": "[name=\"category_id\"]",
       "selectContains": "(select)",
-      "control": "property.innerText"
+      "control": "select",
+      "selector": "[name=\"category_id\"]"
     },
     "severity": {
       "type": "select",
