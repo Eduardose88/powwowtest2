@@ -25,6 +25,12 @@
       },
       "selector": "[name=\"description\"]",
       "control": "text"
+    },
+    "IDReportIssue": {
+      "type": "identifier",
+      "selector": ".form-title",
+      "control": "exists",
+      "selectContains": "Enter Report Details"
     }
   },
   "connect": []
