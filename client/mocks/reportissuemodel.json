@@ -14,5 +14,17 @@
         "value": "3"
       }
     ]
+  },
+  "category": {
+    "options": [
+      {
+        "label": "Select one",
+        "value": "0"
+      }
+    ],
+    "selected": {
+      "label": "Select one",
+      "value": "0"
+    }
   }
 }
