@@ -7,7 +7,6 @@
       "update": {
         "type": "none"
       },
-      "selectContains": "category_id",
       "control": "select",
       "selector": "[name=\"category_id\"]"
     },
