@@ -33,5 +33,14 @@
       "selectContains": "Enter Report Details"
     }
   },
-  "connect": []
+  "connect": [
+    {
+      "match": [
+        "IDReportIssue"
+      ],
+      "screens": [
+        "reportissue"
+      ]
+    }
+  ]
 }
