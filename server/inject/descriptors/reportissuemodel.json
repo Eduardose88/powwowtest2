@@ -9,7 +9,7 @@
       },
       "selector": "[name=\"category_id\"]",
       "selectContains": "(select)",
-      "control": "select"
+      "control": "property.innerText"
     },
     "severity": {
       "type": "select",
